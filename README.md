@@ -26,8 +26,11 @@ Key Performance Indicators (KPIs): Customizable KPIs that are essential for trac
 
 Forecasting: Predictive analytics and forecasting to estimate future sales and performance, which can aid in decision-making and inventory management.
 
+
 Customization Options: The ability to customize the dashboard to focus on specific aspects or metrics that are most relevant to the product's performance.
 
 Data Filters: Options to filter data by date range, region, or other relevant criteria for in-depth analysis.
 
 Data Visualizations: Charts, graphs, and visual representations of data to make it easier to interpret and understand.
+
+Dashboard Link : https://www.novypro.com/project/product-analysis-report
