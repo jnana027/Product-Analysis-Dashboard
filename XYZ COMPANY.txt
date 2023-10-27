@@ -1,0 +1,43 @@
+Workflow:
+1.Gather Data
+2.Data Cleaning
+3.Data Modeling
+4.Creating Reports
+5.Publish to Power BI Service
+6.Create Dashboard
+7.Share
+
+XYZ COMPANY:
+1.Customer can place orders for various products sold by the company online.
+2.XYZ company delivers the products in least posssible time depending upon the customers address.
+3.Customers can choose either cash on delivery option or they can pay online while placing the order.
+4.Company follow 10 days return policy.
+
+Dataset consistd of 4 csv files that consist of sales date for 4 Months,
+1.january 2019
+2.February 2019
+3.March 2019
+4.April 2019
+
+Each CSV file consists of following columns:
+1.order ID:It can be used to uniquely identify each order & in one order more than one products could have been ordered.
+2.Product:consists of Product name.
+3.Quantity Ordered:Tells us about the quantity of given product ordered in a given order ID.
+4.Price Each:Represents price of each unit of given product in a given order ID.
+5.Order Date:The date on which order was placed.
+6.Purchase Address:Customers Address.
+
+
+Create a PBI report to answer these question:
+1.Top/Buttom 5 Products by sales.
+2.Sales by region.
+3.All details about the products ordered in a given order.
+4.Number of orders by time of day.
+5.Number of orders by date.
+6.Sales by month.
+7.Number of orders by Month.
+8.Top/Buttom 5 Products by cost.
+9.Five most & least ordered Products.
+10.Relationship between sales & quantity ordered.
+
+Key Insights:
